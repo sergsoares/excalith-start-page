@@ -151,7 +151,7 @@
 						"icon": "material-symbols:logo-dev"
 					}
 					{
-						"name": "Edit start page",
+						"name": "Edit Start page",
 						"url": "https://github.com/sergsoares/excalith-start-page/edit/main/data/settings.json",
 						"icon": "mdi:web"
 					}
