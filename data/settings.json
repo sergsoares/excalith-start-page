@@ -1,5 +1,5 @@
 {
-	"username": "Excalith",
+	"username": "Sergsoares",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#121317",
@@ -61,12 +61,12 @@
 		]
 	},
 	"urlLaunch": {
-		"target": "_self",
+		"target": "_blank",
 		"hoverColor": "magenta"
 	},
 	"search": {
 		"default": "https://google.com/search?q=",
-		"target": "_self",
+		"target": "_blank",
 		"shortcutRegex": "([A-Za-z0-9]+) (.*)",
 		"shortcuts": [
 			{
@@ -114,8 +114,8 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Portfolio",
-						"url": "https://cancellek.com",
+						"name": "Sergsoares Links",
+						"url": "https://sergsoares.com",
 						"icon": "mdi:web"
 					},
 					{
@@ -124,14 +124,14 @@
 						"icon": "fa-brands:keybase"
 					},
 					{
-						"name": "GPT",
-						"url": "https://chat.openai.com/",
-						"icon": "simple-icons:openai"
+						"name": "Bitwarden",
+						"url": "https://vault.bitwarden.com/#/vault",
+						"icon": "mdi:web"
 					},
 					{
-						"name": "OCI",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
+						"name": "Simplenote",
+						"url": "https://app.simplenote.com/",
+						"icon": "mdi:web"
 					}
 				]
 			},
@@ -142,24 +142,20 @@
 				"links": [
 					{
 						"name": "GitHub",
-						"url": "https://github.com",
+						"url": "https://github.com/sergsoares",
 						"icon": "mdi:github"
 					},
 					{
-						"name": "GitLab",
-						"url": "https://gitlab.com",
-						"icon": "ph:gitlab-logo-simple-fill"
-					},
-					{
-						"name": "Dev.to",
-						"url": "https://dev.to",
+						"name": "Code Server",
+						"url": "https://code-server.sergsoares.com",
 						"icon": "material-symbols:logo-dev"
-					},
-					{
-						"name": "Stack Overflow",
-						"url": "https://stackoverflow.com/",
-						"icon": "mdi:stack-overflow"
 					}
+					{
+						"name": "Edit start page",
+						"url": "https://github.com/sergsoares/excalith-start-page/edit/main/data/settings.json",
+						"icon": "mdi:web"
+					}
+					
 				]
 			},
 			{
@@ -173,8 +169,8 @@
 						"icon": "mdi:twitter"
 					},
 					{
-						"name": "Mastodon",
-						"url": "https://mastodon.social/",
+						"name": "Ferdi",
+						"url": "https://ferdi.sergsoare/",
 						"icon": "ri:mastodon-fill"
 					},
 					{
