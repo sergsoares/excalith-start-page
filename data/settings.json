@@ -149,7 +149,7 @@
 						"name": "Code Server",
 						"url": "https://code-server.sergsoares.com",
 						"icon": "material-symbols:logo-dev"
-					}
+					},
 					{
 						"name": "Edit Start page",
 						"url": "https://github.com/sergsoares/excalith-start-page/edit/main/data/settings.json",
