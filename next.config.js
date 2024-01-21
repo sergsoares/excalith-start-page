@@ -5,7 +5,7 @@ const dirToIgnore = /tools/
 
 const nextConfig = {
 	reactStrictMode: true,
-	output: "standalone",
+	output: "export",
 	publicRuntimeConfig: {
 		version
 	},
