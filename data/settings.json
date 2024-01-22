@@ -196,14 +196,14 @@
 				]
 			},
 			{
-				"title": "Gaming",
+				"title": "Entertainment",
 				"color": "red",
 				"align": "left",
 				"links": [
 					{
-						"name": "Polygon",
-						"url": "https://polygon.com",
-						"icon": "uil:polygon"
+						"name": "Youtube Music",
+						"url": "https://music.youtube.com/",
+						"icon": "mdi:web"
 					},
 					{
 						"name": "IGN",
