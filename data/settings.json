@@ -149,6 +149,21 @@
 						"name": "Edit Start page",
 						"url": "https://github.com/sergsoares/excalith-start-page/edit/main/data/settings.json",
 						"icon": "mdi:web"
+					},
+					{
+						"name": "Uptime Kuma Dashboard",
+						"url": "https://uptime.sergsoares.com/dashboard",
+						"icon": "mdi:web"
+					},
+					{
+						"name": "Uptime Kuma Private",
+						"url": "https://uptime.sergsoares.com/status/private",
+						"icon": "mdi:web"
+					},
+					{
+						"name": "Uptime Kuma Public",
+						"url": "https://uptime.sergsoares.com/status/public",
+						"icon": "mdi:web"
 					}
 					
 				]
