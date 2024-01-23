@@ -223,13 +223,13 @@
 				]
 			},
 			{
-				"title": "Science",
+				"title": "Utilities",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
+						"name": "Minimalist Markdown Editor",
+						"url": "http://markdown.pioul.fr/",
 						"icon": "material-symbols:science"
 					},
 					{
