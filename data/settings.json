@@ -233,9 +233,9 @@
 						"icon": "material-symbols:science"
 					},
 					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
-						"icon": "mdi:reddit"
+						"name": "Timer",
+						"url": "https://time-stuff.com/timer-fullscreen.html",
+						"icon": "mdi:web"
 					},
 					{
 						"name": "NASA",
