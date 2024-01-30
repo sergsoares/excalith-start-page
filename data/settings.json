@@ -127,7 +127,13 @@
 						"name": "Simplenote",
 						"url": "https://app.simplenote.com/",
 						"icon": "mdi:web"
+					},
+					{
+						"name": "Calendar Google",
+						"url": "https://calendar.google.com/calendar/u/0/r/week",
+						"icon": "mdi:web"
 					}
+					
 				]
 			},
 			{
