@@ -170,8 +170,17 @@
 						"name": "Uptime Kuma Public",
 						"url": "https://uptime.sergsoares.com/status/public",
 						"icon": "mdi:web"
+					},
+					{
+						"name": "Dotfiles sh",
+						"url": "https://raw.githubusercontent.com/sergsoares/.dotfiles/main/install.sh",
+						"icon": "mdi:web"
+					},
+					{
+						"name": "Cloudflare Pages",
+						"url": "https://dash.cloudflare.com/d7faa315723e1c5f5323b30fb7d17d52/workers-and-pages",
+						"icon": "mdi:web"
 					}
-					
 				]
 			},
 			{
