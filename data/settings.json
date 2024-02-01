@@ -157,6 +157,11 @@
 						"icon": "mdi:web"
 					},
 					{
+						"name": "Edit Links page",
+						"url": "https://github.com/sergsoares/links.sergsoares.com/edit/main/index.html",
+						"icon": "mdi:web"
+					},
+					{
 						"name": "Uptime Kuma Dashboard",
 						"url": "https://uptime.sergsoares.com/dashboard",
 						"icon": "mdi:web"
