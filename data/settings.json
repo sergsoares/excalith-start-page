@@ -285,6 +285,11 @@
 						"icon": "uil:linux"
 					},
 					{
+						"name": "Hackaday",
+						"url": "https://hackaday.com/",
+						"icon": "uil:linux"
+					},
+					{
 						"name": "9To5 Linux",
 						"url": "https://9to5linux.com/",
 						"icon": "uil:linux"
